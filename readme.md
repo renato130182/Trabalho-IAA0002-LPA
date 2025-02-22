@@ -4,6 +4,8 @@
 ## Bibliotecas Utilizadas
 - pandas
 - warnings
+- Matplolib
+- Seaborn
 
 ## Instruções para Rodar o Projeto
 
@@ -24,7 +26,7 @@
 
 3. Instale as bibliotecas necessárias:
     ```bash
-    pip install pandas
+    pip install -r requirements.txt
     ```
 
 4. Abra o Jupyter Notebook:
