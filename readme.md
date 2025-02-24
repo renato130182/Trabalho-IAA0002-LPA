@@ -6,6 +6,8 @@
 - warnings
 - Matplolib
 - Seaborn
+- xgboost
+- scikit-learn
 
 ## Instruções para Rodar o Projeto
 
