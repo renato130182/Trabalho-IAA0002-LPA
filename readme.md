@@ -45,4 +45,4 @@ Este projeto realiza uma análise exploratória dos preços de carros no Brasil.
 - `script.ipynb`: Jupyter Notebook contendo o código de análise de dados.
 - `precos_carros_brasil.csv`: Arquivo CSV com os dados de preços de carros no Brasil.
 - `requirements.txt`: Arquivo de requisitos para instalar as bibliotecas necessárias.
-- `readme.txt`: Este arquivo com instruções para rodar o projeto.
+- `readme.md`: Este arquivo com instruções para rodar o projeto.
